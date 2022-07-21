@@ -1,1 +1,60 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Ubuntu, "Helvetica Neue", sans-serif; }
+
+
+.pointer{
+  cursor: pointer;
+}
+
+.align-items-center{
+  top: 50%;
+  left: 50%;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.card{
+  border-radius: 10px;
+  line-height: 1px;
+}
+
+.img-card{
+  justify-self: center;
+  height: 300px;
+}
+
+.mt-1{
+  margin-top: 0.5rem;
+}
+
+.mt-2{
+  margin-top: 1rem;
+}
+
+.mt-3{
+  margin-top: 1.5rem;
+}
+
+.mt-4{
+  margin-top: 2rem;
+}
+
+.ml-1{
+  margin-left: 0.5rem;
+}
+
+.ml-2{
+  margin-left: 1rem;
+}
+
+.ml-3{
+  margin-left: 1.5rem;
+}
+
+.ml-4{
+  margin-left: 2rem;
+}

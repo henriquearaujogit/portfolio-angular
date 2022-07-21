@@ -1,0 +1,9 @@
+@import "../../styles.scss";
+
+.navbar{
+  height: 2rem;
+  background: #445864;
+}
+.spacer{
+  flex: 1 1 auto;
+}
